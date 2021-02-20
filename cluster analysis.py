@@ -78,7 +78,6 @@ retail['CustomerID'] = retail['CustomerID'].astype(str)
 # - F (Frequency): количество заказов клиента.
 # - M (Monetary): общая сумма транзакций клента.
 
-# In[80]:
 
 
 
